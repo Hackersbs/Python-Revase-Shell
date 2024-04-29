@@ -1,0 +1,10 @@
+webbrowser
+pywhatkit
+subprocess
+socket
+os
+keyboard
+speech_recognition
+pyttsx3
+sys
+time
