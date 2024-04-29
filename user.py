@@ -14,7 +14,7 @@ def speak(audio):
     print(audio)
     engine.runAndWait()
 
-SERVER_IP = "127.0.0.1"
+SERVER_IP = "127.0.0.1" # change ip addres
 PORT = 4444
 
 s = socket.socket()

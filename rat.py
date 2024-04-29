@@ -7,7 +7,7 @@ import webbrowser
 from keyboard import press
 from keyboard import write
 
-SERVER_IP="192.168.106.107"
+SERVER_IP="127.0.0.1" # change ip addres 
 PORT=4444
 
 def n():
